@@ -18,3 +18,10 @@ There are 2 tasks on this work, A and B, which represents track 1 and track 2 fr
 \* *Due to limited resources, it is decided to use*
 - *bicubic downscaling x2 images as high resolution images. [train](http://data.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_train_LR_bicubic_X2.zip) / [validation](http://data.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_valid_LR_bicubic_X2.zip)*
 - *unknown downscaling x4 images as low resolution images. [train](http://data.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_train_LR_unknown_X4.zip) / [validation](http://data.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_valid_LR_unknown_X4.zip)*
+
+## Packages
+- numpy
+- pillow
+- matplotlib
+- opencv
+- tensorflow
